@@ -1,4 +1,4 @@
-FPS Microgame - Version 4.0.0
+FPS Microgame - Version 3.0.0
 =============================
 
 This is the FPS Microgame package. Learn to create your own FPS game with this example project.
@@ -6,17 +6,6 @@ Learn more about the project here: http://u3d.as/1E4y
 
 Changelog
 ---------
-## [4.0.1] - 2022-10-27
-
-### Changed
-- Package updates
-- Tutorials: minor copy fixes.
-
-## [4.0.0] - 2022-04-05
-
-### Changed
-- Use Unity 2021.3.0f1
-
 ## [3.0.0] - 2022-02-23
 
 ### Changed
